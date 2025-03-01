@@ -1,2 +1,2 @@
 # PictorialSJT
-一个基于AI的图像情景判断测验的自动生成方法
+An automatic generation method of image scene judgment test based on AI.
