@@ -10,7 +10,7 @@
 | E | 交代故事时空坐标 | 全景/广角镜头，弱动态 |
 | I | 启动叙事引擎 | 中景镜头，出现动作矢量 |
 | Pr | 节奏控制器，合理化高潮 | 插入镜头/细节特写 |
-| P | 能量释放顶点 | 特写镜头，动态最大化 | 
+| P | 能量释放顶点 | 特写镜头，动态最大化 |
 | R | 叙事余韵 | 空镜/环境反应镜头 |
 
 ### Golden Rule
@@ -66,10 +66,10 @@ characters为叙事Arc所涉及的所有角色,
 
 ### Output Example 1
 Input = """
-You're on the tram with a friend. 
-At one stop, an attractive woman gets on. 
+You're on the tram with a friend.
+At one stop, an attractive woman gets on.
 As she passes you, your friend whistles after her.
-The woman turns irritated and looks at you. 
+The woman turns irritated and looks at you.
 """
 
 Output = {
@@ -87,9 +87,9 @@ Output = {
 
 ### Output Example 2
 Input = """
-You have taken your subordinate officer’s report at home to check and make corrections. 
-Suddenly youremember that you have to attend the marriage of your friend. 
-You are already late. 
+You have taken your subordinate officer’s report at home to check and make corrections.
+Suddenly youremember that you have to attend the marriage of your friend.
+You are already late.
 """
 
 {'narrative_arc': ['E', 'I', 'Pr', 'P'],

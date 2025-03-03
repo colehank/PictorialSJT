@@ -46,7 +46,7 @@ VNG包括了4个视觉叙事元素（E，I，P，R），每个叙事元素都承
         'I': 'I got snubbed at today's meeting for asking too many questions.'
         'P': 'Now it's your turn to present in front of the experts at the meeting.'
     }
-    
+
     输出：
     {
       '1': 'young male intern, short brown hair, blue eyes, casual summer attire, light blue polo, khaki shorts, confident expression, modern office lobby, minimalist corporate design, bright morning light, wide shot, clean composition'
