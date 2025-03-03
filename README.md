@@ -1,2 +1,2 @@
 # PictorialSJT
-An automatic generation method of image scene judgment test based on AI.
+An automatic generation method of *Pictorial Situation judgment test* based on AI(LanguageModel& ImageGenModel).

@@ -1,0 +1,374 @@
+{
+    "N_0": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you"
+        ],
+        "E": "characters[0] sitting in the middle of a crowded movie theater",
+        "I": "the film starts and characters[0] watches",
+        "P": "characters[0] realizes they are in the wrong film",
+        "situation": "You are sitting in the middle of a crowded movie theater. Shortly after the film has started, you realize that you made a mistake in the cinema and ended up in the wrong film."
+    },
+    "N_1": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "friend",
+            "attractive woman"
+        ],
+        "E": "characters[0] on a tram with characters[1]",
+        "I": "characters[2] gets on the tram",
+        "Pr": "characters[1] whistles at characters[2]",
+        "P": "characters[2] turns irritated and looks at characters[0]",
+        "situation": "You're on the tram with a friend. At one stop, an attractive woman gets on. As she passes you, your friend whistles after her.\u00a0\u00a0The woman turns irritated and looks at you."
+    },
+    "N_2": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "colleague 1",
+            "colleague 2"
+        ],
+        "E": "characters[0] giving a presentation to the colleagues in their department",
+        "I": "characters[0] notices something unusual in the audience",
+        "Pr": "characters[1] and characters[2] start laughing and whispering to each other",
+        "P": "characters[0] looks concerned or confused towards characters[1] and characters[2]",
+        "situation": "You give a presentation to the colleagues in your department. As you speak, you notice that two of your colleagues suddenly start laughing and whispering to each other."
+    },
+    "N_3": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "friends",
+            "guests"
+        ],
+        "E": "characters[0] sitting at a table with characters[1] in a well-attended restaurant",
+        "I": "characters[1] suddenly loudly chant 'Happy Birthday'",
+        "P": "characters[2] start looking at characters[0]",
+        "situation": "On your birthday you are invited by some friends to a well-attended restaurant. As you sit together at the table, your friends suddenly loudly chant \"Happy Birthday\" and all the guests start looking at you."
+    },
+    "N_4": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you",
+            "bank advisor"
+        ],
+        "E": "characters[0] sitting at a desk, looking at their computer screen with an email client open",
+        "I": "characters[0] realize they sent a private email with holiday pictures to the wrong address",
+        "Pr": "characters[0] feel a sudden jolt of panic",
+        "P": "characters[1] across the street the next day, looking at characters[0]",
+        "R": "characters[0] and characters[1] share an awkward glance across the street",
+        "situation": "Shortly after sending a private email with holiday pictures, you realize that you sent the email to the wrong address. By mistake, your bank advisor is the email recipient. The next day, you happen to meet your bank advisor across the street."
+    },
+    "N_5": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you",
+            "your supervisor",
+            "employees"
+        ],
+        "E": "a festive Christmas party at your company",
+        "I": "characters[1] starts mimicking characters[2]",
+        "P": "characters[1] parodies characters[0], causing a lot of laughter",
+        "R": "the joyous atmosphere of the party continues",
+        "situation": "Your company's Christmas party is a very merry one. Over the course of the evening, your supervisor mimics most of his employees. When he/she parodies you, there is a lot of laughter."
+    },
+    "N_6": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "friend/stranger"
+        ],
+        "E": "a party environment with lively guests and decorations",
+        "I": "characters[0] approaches characters[1] from behind, mistaking them for an old friend",
+        "Pr": "characters[0] warmly touches characters[1]'s shoulder",
+        "P": "characters[1] turns around revealing themselves as a stranger, surprising characters[0]",
+        "situation": "At a party you see a friend you haven't seen for a long time. You approach him/her from behind and greet him/her warmly, touching her shoulder. The person turns around and you realize that it is a stranger."
+    },
+    "N_7": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "friend",
+            "wedding guests"
+        ],
+        "E": "characters[0] attending characters[1]'s wedding ceremony with a crowd of wedding guests around",
+        "I": "characters[1] announces that characters[0] is chosen to participate in a pantomime game",
+        "P": "characters[0] stands in front of the wedding guests, ready to start the pantomime game",
+        "situation": "You are invited to a friend's wedding and are chosen to take part in a pantomime game."
+    },
+    "N_8": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you"
+        ],
+        "E": "characters[0] sitting in a movie theater watching a movie",
+        "I": "the cinema hall is completely quiet, and there is an incredibly exciting scene",
+        "P": "a mobile phone rings and characters[0] immediately realizes it can only be their phone",
+        "R": "characters[0] feeling embarrassed while others in the cinema hall look around",
+        "situation": "You're sitting in a movie theater watching a movie. The cinema hall is completely quiet, there is an incredibly exciting scene. At this very moment a mobile phone rings. You know immediately that this can only be your mobile phone."
+    },
+    "N_9": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you",
+            "other guests"
+        ],
+        "E": "characters[0] entering a party location with unfamiliar characters[1]",
+        "I": "a voice announces the arrival of the guest of honor over the loudspeakers",
+        "P": "a spotlight turns on, focusing on characters[0], making them the center of attention",
+        "R": "the conversations of characters[1] fade into silence, leaving characters[0] in the spotlight",
+        "situation": "You are invited to a party and hardly know any of the guests. When you enter the party location, a voice over the loudspeakers announces that the guest of honor of the evening is now arriving. At the same time a spotlight is turned on, so that you are standing in the middle of the spotlight. The conversations of the other guests fade into silence."
+    },
+    "N_10": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "friend"
+        ],
+        "E": "characters[0] standing in a long queue with characters[1], amidst a spooky silence",
+        "I": "characters[0] and characters[1] chatting quietly",
+        "Pr": "characters[1] suddenly has to burp",
+        "P": "characters[1] burps loudly, breaking the spooky silence",
+        "situation": "You are standing in a long queue together with a friend whom you happened to meet, and the two of you are chatting. In spite of all the people there is a spooky silence. All of a sudden your friend has to burp loudly."
+    },
+    "N_11": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "supervisor"
+        ],
+        "E": "characters[0] standing in the queue at a pharmacy, looking at the shelf with a pack of condoms",
+        "I": "characters[0] about to reach the counter",
+        "P": "the pharmacy door opens and characters[1] enters, looking around",
+        "situation": "You are standing in the queue at a pharmacy and want to buy a pack of condoms. Just before you get there, the door opens and your supervisor comes in."
+    },
+    "N_12": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "birthday guest",
+            "host",
+            "other guests"
+        ],
+        "E": "characters[0] sitting at a table with characters[3] at a birthday party",
+        "I": "characters[1] suggests that characters[0] give a spontaneous birthday speech for characters[2]",
+        "P": "characters[0] contemplating giving the speech, feeling a mix of surprise and anticipation",
+        "situation": "You are invited to a birthday party and sit at a table with other birthday guests, most of whom you do not know. A birthday guest tells you that the host would be very happy about a little spontaneous birthday speech from you."
+    },
+    "N_13": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you"
+        ],
+        "E": "characters[0] enters a semi-full elevator in a department store",
+        "I": "characters[0] waiting in the elevator, thinking about reaching the 6th floor",
+        "P": "the elevator doors open on the 3rd floor, characters[0] realizes they pressed the wrong button",
+        "R": "the elevator remains empty, no one gets in or out",
+        "situation": "You get into a semi-full elevator in a department store. You want to get off on the 6th floor, but when the door opens, you're only on the 3rd floor. But nobody gets in or out. You realize that you probably pressed the wrong button and ended up on the wrong floor."
+    },
+    "N_14": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "friends",
+            "other guests"
+        ],
+        "E": "characters[0] sitting in a caf\u00e9 with characters[1]",
+        "I": "characters[1] start telling embarrassing stories about themselves",
+        "Pr": "characters[1] laugh loudly, attracting attention",
+        "P": "characters[2] look at characters[0] with interest or annoyance",
+        "situation": "You're sitting in a caf\u00e9 with friends. Your friends tell embarrassing stories about themselves loudly and shamelessly and laugh so loud that the other guests look at you."
+    },
+    "N_15": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "heavily drunk man",
+            "passengers"
+        ],
+        "E": "characters[0] sitting on a crowded city bus surrounded by characters[2]",
+        "I": "characters[1] suddenly screams 'Cheater!' multiple times",
+        "P": "characters[1] points at characters[0] with his finger, drawing attention from characters[2]",
+        "situation": "You're sitting on a crowded city bus. Suddenly a heavily drunk man screams, so that all passengers can hear it several times: \u201eCheater!\" and points at you with his finger."
+    },
+    "N_16": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "couple"
+        ],
+        "E": "characters[0] enters the elevator, intending to go up several floors",
+        "I": "the elevator doors close, and characters[1] start smooching loudly",
+        "Pr": "characters[0] notices the loud couple",
+        "P": "characters[0] realizes there is nobody else in the elevator except them",
+        "situation": "You enter an elevator with which you want to go up several floors. As soon as the doors have closed, you notice a wild and loudly smooching couple. There is nobody in the elevator except you and the couple."
+    },
+    "N_17": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you",
+            "seat neighbor",
+            "people at the table"
+        ],
+        "E": "characters[0] participating in a festive business dinner with characters[1] sitting next to you",
+        "I": "characters[0] accidentally knocks over the red wine glass of characters[1]",
+        "P": "characters[1] angrily shouts 'How can you be so stupid', making sure characters[2] at the table hears it",
+        "R": "characters[0] feeling embarrassed and the atmosphere at the table becomes tense",
+        "situation": "You are taking part in a festive business dinner and have accidentally knocked over the red wine glass of the person sitting next to you. Even before you can apologize, your seat neighbor angrily shouts: \"How can you be so stupid\", so that everyone at the table hears it."
+    },
+    "N_18": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P",
+            "R"
+        ],
+        "characters": [
+            "you",
+            "people in the caf\u00e9"
+        ],
+        "E": "characters[0] enters a caf\u00e9",
+        "I": "characters[0] slips badly on the doorstep",
+        "P": "characters[0] lies on the floor while characters[1] laugh at you",
+        "R": "an empty coffee cup rolls across the floor",
+        "situation": "You go into a caf\u00e9 and slip badly on the doorstep. When you are lying on the floor, some people in the caf\u00e9 laugh at you."
+    },
+    "N_19": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "unknown guest",
+            "other guests"
+        ],
+        "E": "characters[0] sitting at a table with characters[1] and characters[2] at a wedding",
+        "I": "characters[1] asks characters[0] a question",
+        "Pr": "characters[1] asks if characters[0] is the guest who is always late",
+        "P": "characters[2] all turn to look at characters[0]",
+        "situation": "You are invited to a wedding and sit at a table with guests whom you mostly do not know. One of the guests asks you, so that everyone else at the table can hear, if you are the guest who is always late."
+    },
+    "N_20": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "Pr",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "doctor",
+            "patients"
+        ],
+        "E": "characters[0] sitting in a crowded waiting room on April 1st at a doctor's office for the first time",
+        "I": "the characters[1] enters the waiting room",
+        "Pr": "characters[1] makes a sarcastic joke",
+        "P": "all the characters[2] around characters[0] laugh heartily while characters[0] looks confused",
+        "situation": "It's April 1st. It's your first time at a certain doctor's office and you're sitting in a crowded waiting room. When the doctor enters the waiting room and calls you out, he/she makes a sarcastic joke. All the patients around you have to laugh heartily, but you do not understand why."
+    },
+    "N_21": {
+        "narrative_arc": [
+            "E",
+            "I",
+            "P"
+        ],
+        "characters": [
+            "you",
+            "speaker",
+            "hundred listeners"
+        ],
+        "E": "characters[0] sitting among characters[2] in an auditorium",
+        "I": "characters[0] listens to characters[1]'s interesting lecture",
+        "P": "characters[0] raises hand with a burning question",
+        "situation": "You will participate in a public lecture with about a hundred listeners. You find the speaker's lecture interesting and have a burning question."
+    }
+}
