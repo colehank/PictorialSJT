@@ -1,13 +1,13 @@
-#%%
+# %%
 import config
 from vng import VNGGenerator
 from mj import ImageGenerator
 import json
 import utils
 
-#%%
+# %%
 items = json.load(open("results/itemsVNG/situ_VNG_DimN.json", "rb"))
-#%%
+# %%
 c_ref = "assets/characters/image/female_0.jpg"
 
 test_prompt = {
@@ -18,14 +18,14 @@ test_prompt = {
 
 gen = ImageGenerator()
 imgs1, idx1 = gen.generate_image(test_prompt["1"], c_ref=c_ref, cw=100)
-#%%
+# %%
 imgs2, idx2 = gen.generate_image(test_prompt["2"], c_ref=c_ref, cw=100)
-#%%
+# %%
 imgs3, idx3 = gen.generate_image(test_prompt["3"], c_ref=c_ref, cw=100)
-#%%
+# %%
 panel1 = gen.action(idx, "UPSCALE", 2)[0]
 panel2 = gen.action(idx2, "UPSCALE", 4)[0]
 panel3 = gen.action(idx3, "UPSCALE", 3)[0]
-#%%
+# %%
 comic = utils.make_sequence([panel1, panel2, panel3])
 comic.save("results/comic_test.tif")

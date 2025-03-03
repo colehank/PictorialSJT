@@ -1,7 +1,7 @@
-#%%
+# %%
 import src
 
-#%%
+# %%
 ImageGenerator = src.ImageGenerator
 prompt = (
     "A human is giving a presentation to the colleagues in a meeting room, "
