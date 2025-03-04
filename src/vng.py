@@ -1,4 +1,4 @@
-#%%
+# %%
 from openai import OpenAI
 import os
 import os.path as op
@@ -78,7 +78,7 @@ class VNGGenerator:
             return content
 
 
-#%%
+# %%
 if __name__ == "__main__":
     situ = """
     You have taken your subordinate officer’s report at home to check and make corrections.
@@ -94,4 +94,4 @@ if __name__ == "__main__":
     # print(vng_comp)
     # print(vng_prompt)
 #
-#%%
+# %%

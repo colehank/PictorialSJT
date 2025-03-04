@@ -1,4 +1,4 @@
-#%%
+# %%
 from mj import ImageGenerator
 from vng import VNGAnalyser
 import os
@@ -7,12 +7,12 @@ from tqdm.autonotebook import tqdm
 import config
 
 config.query_credits()
-#%%
+# %%
 results_dir = "results/itemsVNG"
 os.makedirs(results_dir, exist_ok=True)
 with open("assets/SJT_item/SJTs.json", "r") as f:
     sjts = json.load(f)["items"]
-#%%
+# %%
 analyser = VNGAnalyser()
 situations = {}
 situ_vng = {}
@@ -33,4 +33,4 @@ for dim, items in tqdm(sjts.items(), desc="Processing SJTs", position=0):
 
 with open(f"{results_dir}/situ_VNG_DimN.json", "w") as f:
     json.dump(situ_vng, f, indent=4)
-#%%
+# %%

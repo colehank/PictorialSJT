@@ -1,4 +1,4 @@
-#%%
+# %%
 import json
 import time
 import io
@@ -12,7 +12,7 @@ import tqdm
 GEN_URL = MJConfig.gen_url
 STATUS_URL = MJConfig.status_url
 IMG_URL = MJConfig.img_url
-#%%
+# %%
 
 
 class ImageGenerator:
@@ -157,7 +157,7 @@ class ImageGenerator:
             raise ValueError("Reference image upload failed")
 
 
-#%%
+# %%
 if __name__ == "__main__":
     prompt = (
         "A human is giving a presentation to the colleagues in a meeting room, "
@@ -166,4 +166,4 @@ if __name__ == "__main__":
     generator = ImageGenerator(c_ref="assets/characters/image/female_0.jpg")
     task_id, image = generator.generate_image(prompt, c_ref=True, cw=100)
     picked_task, picked_img = generator.action(task_id, "UPSCALE", 1)
-#%%
+# %%
